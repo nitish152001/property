@@ -1,0 +1,8 @@
+.comp{
+ justify-content: space-between;
+
+}
+
+.comp>img{
+    width:9rem;
+}
